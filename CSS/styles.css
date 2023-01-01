@@ -1,0 +1,74 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+    text-align: left;
+    font-family: Outfit;
+}
+div{
+    background-color: hsl(216, 50%, 16%);
+    border-radius: 1%;
+    height: 50%;
+    width: 30%;
+    margin: 400px;
+    padding-bottom: 20px;
+}
+h2{
+    padding-left: 25px;
+    color: white;
+    font-size: 18px;
+}
+hr{
+    border: solid hsl(215, 32%, 27%);
+    border-bottom-style: none;
+    width: 90%;
+    height: 0px;
+}
+p{
+    color: hsl(215, 51%, 70%);
+    display: inline;
+
+  
+}
+span{
+    color: white;
+}
+.ava{
+    display: inline;
+    padding-left: 25px;
+    width: 30px;
+    float: left;
+    margin-right: 3px;
+}
+.bt{
+    padding-left: 10px;
+    position: relative;
+    bottom: 10px;
+    font-weight: 600;
+}
+.p1{
+    padding-right: 35%;
+    color: hsl(178, 100%, 50%);
+    
+}
+.svg{
+    display: inline;
+    padding-left: 25px;
+}
+.clock{
+    display: inline; 
+}
+.des{
+    padding-left: 25px;
+    display: inline-block;
+    width: 80%;
+    font-size: 18px;
+    
+}
+.eqi{
+    border-radius: 5%;
+    height: 40%;
+    width: 90%;
+    padding: 10px;
+    position: relative;
+    left: 7px;
+    top: 5px;
+}
